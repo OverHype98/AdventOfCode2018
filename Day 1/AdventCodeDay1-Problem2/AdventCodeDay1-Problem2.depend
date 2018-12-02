@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543655064 source:d:\problemecadblaks\adventcodeday1-problem2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+
