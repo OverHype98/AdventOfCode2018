@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543747935 source:d:\problemecadblaks\adventofcodeday2-problem2\main.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<fstream>
+
